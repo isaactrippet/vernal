@@ -1,11 +1,11 @@
-1 .\\\\\\\\. layer 0 / array // architecture
-01 .\\\\\\\. layer 1 / variables / individual variables
-001 .\\\\\\. layer 2 /
-0001 .\\\\\. layer 3 /
-00001 .\\\\. layer 4 /
-000001 .\\\. layer 5 /
-0000001 .\\. layer 6 /
-00000001 .\. layer 7 /
+1 .\\\\\\\\. layer 0 / array / architecture / environment / sensors / information / language / variables / bits.
+01 .\\\\\\\. layer 1 / architecture / environment / sensors / information / language / variables / bits.
+001 .\\\\\\. layer 2 / environment / sensors / information / language / variables / bits.
+0001 .\\\\\. layer 3 / sensors / information / language / variables / bits.
+00001 .\\\\. layer 4 / information / language / variables / bits.
+000001 .\\\. layer 5 / language / variables / bits.
+0000001 .\\. layer 6 / variables / bits.
+00000001 .\. layer 7 / bits.
 .
 000000001
 0000000001
