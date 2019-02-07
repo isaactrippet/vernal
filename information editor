@@ -1,0 +1,25 @@
+// Information Editor
+
+
+
+// Classes
+
+class Admin {
+  var admin.oil = 
+  var admin.fuelfilter =  
+  var 
+}
+
+
+
+class Customer {
+  var name = ""
+  var address = 
+  var task = 
+  var cust.id = 0
+  var job.id = 0
+}
+
+class Work Orders {
+  var 
+}
