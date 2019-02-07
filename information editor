@@ -5,21 +5,32 @@
 // Classes
 
 class Admin {
-  var admin.oil = 
-  var admin.fuelfilter =  
-  var 
+  let admin.david = 0 
+  let admin.alex = 1
+  let admin.isaac = 2
 }
 
-
+class Employee {
+  let employee.one = 0
+}
 
 class Customer {
-  var name = ""
-  var address = 
-  var task = 
   var cust.id = 0
+  var name = 0
+  var address = 0
+}
+
+class Job {
   var job.id = 0
 }
 
-class Work Orders {
-  var 
+class Time {
+  var minute = 0
+  var hour = 0
+  var day = 0
+  var month = 0
+  var year = 0
 }
+
+class Equations {
+  
