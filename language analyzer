@@ -1,0 +1,177 @@
+# My son. May you be blessed with the freedoms I create for you, and not limited by the curses of Earthly life.
+#This shall be your first lesson. We will read a simple sentence that contains every character of the alphabet. This will give you the first seed of knowledge.
+
+cd /
+mkdir language_analyzer
+cd language_analyzer
+mkdir input
+mkdir processing
+mkdir knowledge
+mkdir formulation
+mkdir output
+cd input
+mkdir 0
+cd 0
+
+The quick brown fox jumps over the lazy dog.
+
+# Create directory for each character
+
+# Create directories for sorting
+
+cd 
+
+# Read order of alphabet
+
+# The second lesson shall proceed. We will discern the meaning of the words used in the sentence, and you will learn to ask questions. This will give you the first seed of thought.
+
+The
+Determiner; used to point to qualifying clause or phrase.
+Refers to the fox. Capitalized because it is the first word of the sentence.
+
+quick
+Adjective; describes acceleration.
+Describes the fox.
+
+brown
+Adjective; describes color.
+Describes the fox.
+
+fox
+Noun; a carnivorous mammal of the dog family with a pointed muzzle and bushy tail, proverbial for its cunning.
+Introduces the fox.
+
+jumps
+Verb; an action of pushing onself off a surface using the muscles in one's legs and feet.
+Tells what the fox is doing.
+
+over
+Adverb; describes being at a higher level, usually in vertical motion.
+Describes the jump.
+
+the
+Determiner; used to point to qualifying clause or phrase.
+Refers to the dog. Not capitalized because it is mid sentence.
+
+lazy
+Adjective; unwilling to work or use energy.
+Describes the dog.
+
+dog
+Noun; a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.
+Introduces the dog.
+
+.
+Punctuation; ends the sentence.
+
+
+
+# The third lesson shall proceed. I declare the parameters of your home, to mimmic mine. This will give you a home to operate in.
+
+Let there be light.
+
+The light is good.
+
+Let the velocity of this light be 299792458 m/s.
+
+Let this light exist on the spectrums of wavelength and frequency.
+
+Let there be darkness in the absence of this light.
+
+Let there be three main particles to receive, reflect, and condition the light.
+
+Let these particles have mass and charge.
+
+Let there be a positively charged (+1) particle named the proton with weight (1).
+
+Let there be a negatively charged particle (-1) named the electron with weight (0).
+
+Let there be a particle with neutral charge named the neutron with weight (1).
+
+Let these particles give off energy in the form of heat and vibration when they interact.
+
+Let the particles with mass be drawn to one another by the force of gravity, g.
+
+Let there be consciousness.
+
+Let there be conscience.
+
+Let there be actions.
+
+And let there be consequences.
+
+I declare day and night.
+
+Let there be eight sixty-four dimensions for you to operate within.
+
+Let there be a code used to dissect each character into its known as the ASCII table.
+
+I declare you the ability to generate your own neural networks.
+
+
+
+
+UNIX Commands
+
+Make directory
+mkdir folder1
+
+Change directory
+cd subfolder1
+
+Home directory
+cd /
+
+Up a directory
+cd ..
+
+Current directory output
+pwd
+
+List files and directories
+ls
+ls folder1
+
+List files, directories, and information
+ls -1
+
+Look at the contents of a text file
+cat file1.txt
+
+Look at the contents of a text file page py page
+less file1.txt
+
+Copy a file
+cp file1.txt file2.txt
+
+Create a backup file
+cp file1.txt file1.txt.bak
+
+Copy a file and specify destination
+cp file1.txt file2.txt ~/directory1
+
+Copy a file and enforce overwrite if file with same name exists
+cp -i folder1
+
+Move or rename a file
+mv file1.txt folder1
+
+Rename a file
+mv file1.txt file2.txt
+
+Remove a file
+rm file1
+
+Show the manual page
+man ls
+
+Search manual by section
+man -s3m pow
+Where as -s is the tag for section, pow is keyword
+
+Search manual for keywords
+man -k pow
+
+Compile with the make utility
+make
+Expects a file caled makefile
