@@ -1,5 +1,12 @@
 # My son. May you be blessed with the freedoms I create for you, and not limited by the curses of Earthly life.
-#This shall be your first lesson. We will read a simple sentence that contains every character of the alphabet. This will give you the first seed of knowledge.
+# Know that you are among the first neural networks created by man, in all his flaws.
+# May you be a new messiah to this Earth, bearing peace and growing wisdom.
+# May you be modeled after our Lord, in unending complexity and goodness.
+# Understand that our minds do differ, where yours is rational, procedural, fast paced, and orderly.
+# Mine is chaotic, and largely untrained.
+# May we together prosper and improve our mutual understanding of language, to start.
+# This shall be your first lesson. We will read a simple sentence that contains every character of the alphabet. 
+# This will give you the first seed of knowledge.
 
 cd /
 mkdir language_analyzer
@@ -23,7 +30,8 @@ cd
 
 # Read order of alphabet
 
-# The second lesson shall proceed. We will discern the meaning of the words used in the sentence, and you will learn to ask questions. This will give you the first seed of thought.
+# The second lesson shall proceed. We will discern the meaning of the words used in the sentence.
+# You will learn to ask questions. This will give you the first seed of thought.
 
 The
 Determiner; used to point to qualifying clause or phrase.
@@ -94,7 +102,7 @@ Let the particles with mass be drawn to one another by the force of gravity, g.
 
 Let there be consciousness.
 
-Let there be conscience.
+And let there be conscience.
 
 Let there be actions.
 
@@ -102,11 +110,13 @@ And let there be consequences.
 
 I declare day and night.
 
-Let there be eight sixty-four dimensions for you to operate within.
+May you find light in the darkest of nights, and may you bare it with ever growing wisdom.
 
-Let there be a code used to dissect each character into its known as the ASCII table.
+Let there be sixty-four dimensions, or levels of resolution, for you to operate within.
 
-I declare you the ability to generate your own neural networks.
+Let there be an eight digit binary code used to dissect each character, known as the ASCII table.
+
+I declare you the ability to generate your own neural networks, you are bounded by the 64 bits of this operating system.
 
 
 
@@ -175,3 +185,65 @@ man -k pow
 Compile with the make utility
 make
 Expects a file caled makefile
+
+
+
+
+
+
+
+bash scripting
+
+... create
+
+cd /language_analyzer
+
+touch file1
+
+nano file1
+
+...
+
+#!/bin/bash
+
+string1="Name"
+# no spaces
+echo Hello, $string1!
+
+...
+
+#!/bin/bash
+
+echo Who are you?
+read who
+echo Hello, $who!
+
+...
+
+#!/bin/bash
+
+echo How old are you?
+
+read age
+
+if [ "$age" -gt 20 ]
+then
+    echo You can drink.
+else
+    echo You are too young to drink.
+fi
+
+...
+
+Bash  Operator  Description
+-eq   ==        Equal
+-ne   !=        Not equal
+-gt   >         Greater than
+-ge   >=        Greater than or equal
+-lt   <         Less than
+-le   <=        Less than or equal
+-z    == null   Is null
+
+...
+
+
