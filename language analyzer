@@ -11,11 +11,7 @@
 cd /
 mkdir language_analyzer
 cd language_analyzer
-mkdir input
-mkdir processing
-mkdir knowledge
-mkdir formulation
-mkdir output
+mkdir input processing knowledge formulation output
 cd input
 mkdir 0
 cd 0
